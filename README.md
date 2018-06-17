@@ -1,1 +1,1 @@
-# main directory structure for the first draft of the initial protocol
+# main directory structure for the first draft of Semada's initial POC protocol
